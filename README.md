@@ -1,6 +1,6 @@
 
 
-# AppNg
+# Nx Starter
 
 This project was generated using [Nx](https://nx.dev).
 
